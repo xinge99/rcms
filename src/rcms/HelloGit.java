@@ -9,5 +9,6 @@ public class HelloGit {
 		while(i++<10){
 			System.out.println(i);
 		}
+		System.out.println("over");
 	}
 }
